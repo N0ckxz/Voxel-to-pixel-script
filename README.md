@@ -1,6 +1,6 @@
 # Voxel to pixel converter script for MagicaVoxel
 
-## The .vox file must be in the same folder as the executable for it to run
+## The .vox file must be in the same folder as the executable for the program to run
 
 Multiple files in the same folder allowed.
 
