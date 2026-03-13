@@ -1,3 +1,10 @@
-/.conda
-/.vscode
-/Plantilla_Voxel.vox
+# Entornos y configuraciones locales
+.conda/
+.vscode/
+
+# Archivos compilados de PyInstaller
+build/
+dist/
+*.spec
+__pycache__/
+Plantilla_Voxel.vox
